@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Prallabi's Birthday Party",
+      "day": "June 16th at 4:00pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Practice LeetCode",
+      "day": "June 16th at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Interview for Internship",
+      "day": "June 16th at 9:00am",
+      "reminder": false
+    }
+  ]
+}
